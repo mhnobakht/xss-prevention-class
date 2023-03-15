@@ -1,0 +1,1 @@
+# PHP XSS Prevention Class 
